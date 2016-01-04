@@ -1,1 +1,1 @@
-{"name":"branch-dictionary","display_name":"branch-dictionary","owner":"switchnick","auth_method":"None","auth_options":{},"paging_method":"None","paging_options":{},"tables":[{"qName":"Project","endpoint":"project"}],"base_endpoint":"api","data_element":"data"}
+{"name":"branch-dictionary","display_name":"branch-dictionary","owner":"switchnick","auth_method":"None","auth_options":{},"paging_method":"None","paging_options":{},"tables":[{"qName":"Projects","endpoint":"project"}],"base_endpoint":"api","data_element":"data"}
